@@ -1,4 +1,13 @@
-### Hi there 👋
+QA Engineer Portfolio
+About Me
+7+ years experienced QA Engineer proficient in:
+
+Automation Testing: Selenium, Postman, Swagger
+Languages: Python, JavaScript, Java, SQL, HTML5, CSS3
+Tools: PyCharm, Chrome Dev Tools, Confluence
+Methodologies: Agile/SCRUM, Waterfall
+OS: Windows, iOS, Android, Linux
+Contact: your-email@example.com
 
 <!--
 **AntonZolotarjov/AntonZolotarjov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
